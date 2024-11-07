@@ -7,7 +7,7 @@ from sklearn.ensemble import RandomForestClassifier
 
 
 # 파일 경로 설정
-training_file_path = 'third_party_data.csv'
+training_file_path = 'training_data.csv'
 test_file_path = 'test_data.csv'
 output_file_path = 'prediction_results.csv'
 
